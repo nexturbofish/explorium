@@ -1,0 +1,22 @@
+# Binaries
+*.test
+*.prof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+vendor/
+
+# Logs
+*.log
+
+# Built binary (under hi/)
+/hi/hi
